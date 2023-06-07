@@ -4,23 +4,21 @@
 
 ## 界面
 
-![1](/readme-file/1.png)
+![预览图1](./assets/1.png)
 
-![2](/readme-file/2.png)
+![预览图2](./assets/2.png)
 
 ## 动图
 
-![3](/readme-file/3.gif)
+![预览图3](./assets/3.gif)
 
 ## 在线预览地址
 
-<http://pagedesign.codebear.cn/>
-
-
+[在线预览](http://pagedesign.codebear.cn)
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 yarn
 
